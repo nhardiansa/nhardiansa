@@ -4,16 +4,15 @@ I'm inrested in Web Development and I'm currently deepning Javascript Languange
 
 
 ### These My Skills
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/redux.png"/> <img src="https://img.icons8.com/color/48/000000/webpack.png"/> <img src="https://img.icons8.com/color/48/000000/web-components.png"/>
 
 ### What Tools I Used
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
 <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
 
-### Stats
-- 📖 Now, I'm learn ReactJs for Development
-- 📩 Intrested to me? just Email me! 👌
+<img src="https://github-readme-stats.vercel.app/api/?username=nhardiansa&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhardiansa&layout=compact" alt="github stats"/>
 
 
 ### Let's connect with me!
