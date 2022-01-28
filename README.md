@@ -1,5 +1,5 @@
 # Hi, I'm Nabil Hardiansa!
-I'm inrested in Web Development and I'm currently deepning Javascript Languange 
+I'm inrested in Web Development and I'm currently deepening Javascript Languange 
 
 
 
